@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋,
 
-<!--
-**leonardo-ferreira07/leonardo-ferreira07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leonardo.
 
-Here are some ideas to get you started:
+I'm an iOS software engineer currently working for [@mindvalley](https://github.com/mindvalley) and as a mentor and project reviewer for [@udacity](https://github.com/udacity).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working from Brazil (my home country), but my work is for a company based in Kuala Lumpur, Malaysia. I've lived there for one year, before coming back home and started working remotely.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/leonardo-kaminski-ferreira) and [Twitter](https://twitter.com/stonbr).
+
+## &#x1f4c8; GitHub Stats
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-ferreira07&count_private=true&show_icons=true&theme=dark)
+![Leonardo's Top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-ferreira07&theme=dark&layout=compact)
