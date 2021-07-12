@@ -2,7 +2,7 @@
 
 I'm Leonardo.
 
-I'm an iOS software engineer currently working for [@mindvalley](https://github.com/mindvalley) and as a mentor and project reviewer for [@udacity](https://github.com/udacity).
+I'm an iOS software engineer currently working for [@mindvalley](https://github.com/mindvalley) and as a part-time engineer for [@LottieFiles](https://github.com/LottieFiles).
 
 I'm currently working from Brazil (my home country), but my work is for a company based in Kuala Lumpur, Malaysia. I've lived there for one year, before coming back home and started working remotely.
 
