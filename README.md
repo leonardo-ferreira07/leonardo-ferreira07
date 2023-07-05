@@ -2,7 +2,7 @@
 
 I'm Leonardo.
 
-I'm an iOS software engineer currently working for [@LottieFiles](https://github.com/LottieFiles) and as a part-time engineer for [@mindvalley](https://github.com/mindvalley).
+I'm an iOS software engineer with +7 years of experience on Apple ecosystem, having already developed for macOS, iOS, tvOS and watchOS systems.
 
 I'm currently working from Brazil (my home country), but my work is for a company based in Kuala Lumpur, Malaysia. I've lived there for one year, before coming back home and started working remotely.
 
