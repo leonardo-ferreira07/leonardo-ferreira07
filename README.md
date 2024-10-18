@@ -6,7 +6,7 @@ I'm an iOS software engineer with +9 years of experience on Apple ecosystem, hav
 
 I'm currently working from Brazil (my home country), but my work is for a company based in San Francisco, California - USA.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/leonardo-kaminski-ferreira) and [Twitter](https://twitter.com/stonbr).
+You can find me on [LinkedIn](https://www.linkedin.com/in/leonardo-kaminski-ferreira) and [X](https://x.com/stonbr).
 
 ## &#x1f4c8; GitHub Stats
 
