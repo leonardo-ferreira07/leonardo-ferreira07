@@ -2,7 +2,7 @@
 
 I'm Leonardo.
 
-I'm an iOS software engineer with +8 years of experience on Apple ecosystem, having already developed for macOS, iOS, tvOS and watchOS systems.
+I'm an iOS software engineer with +9 years of experience on Apple ecosystem, having already developed for macOS, iOS, tvOS and watchOS systems.
 
 I'm currently working from Brazil (my home country), but my work is for a company based in San Francisco, California - USA.
 
